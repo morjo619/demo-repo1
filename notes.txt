@@ -13,3 +13,4 @@ Clone --> Bring a repo that is hosted somewhere like Github into a folder
    23  git remote
    24  git remote -v
    25  git config -l
+test
