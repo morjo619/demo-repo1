@@ -1,15 +1,1 @@
-random notes
-
-Git Commands
-Clone --> Bring a repo that is hosted somewhere like Github into a folder
-
-16  git status
-   17  git commit
-   18  git status
-   19  git push
-   20  git status
-   21  git status
-   22  git repo
-   23  git remote
-   24  git remote -v
-   25  git config -l
+force merge
